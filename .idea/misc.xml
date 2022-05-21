@@ -3,9 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Pengembangan Aplikasi Mobile/Activity_8_MySQL/app/src/main/res/layout/activity_edit_teman.xml" value="0.12132725430597771" />
         <entry key="..\:/Pengembangan Aplikasi Mobile/Activity_8_MySQL/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Pengembangan Aplikasi Mobile/Activity_8_MySQL/app/src/main/res/layout/activity_tambah_teman.xml" value="0.12132725430597771" />
         <entry key="..\:/Pengembangan Aplikasi Mobile/Activity_8_MySQL/app/src/main/res/layout/row_data_teman.xml" value="0.12132725430597771" />
+        <entry key="..\:/Pengembangan Aplikasi Mobile/Activity_8_MySQL/app/src/main/res/menu/popup1.xml" value="0.15925925925925927" />
       </map>
     </option>
   </component>
